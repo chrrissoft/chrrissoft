@@ -8,6 +8,11 @@ and I currently have 3 applications in the Google Play Store. Each one has a pur
 - [Notes and tasks](https://play.google.com/store/apps/details?id=com.chrrissoft.simpletodolist). To learn basic CRUD operations 💾📗
 - [Marvel app](https://github.com/chrrissoft/android_app_architecture). To learn in a practical way the guide recommended by Android Developers for Android app development. 👷🏗️
 - [English Words](https://github.com/chrrissoft/english_words). To learn to build an android app with clean architecture. I love it.
+- [Learning Manager](https://play.google.com/store/apps/details?id=com.chrrissoft.learning_manager). My firt practical approach to Software Development.
+- [Linked List](https://github.com/chrrissoft/LinkedList). A linked list data structure that allowed me get programming logic.
+- [Stack](https://github.com/chrrissoft/Stack)
+- [Coule](https://github.com/chrrissoft/Coule)
+- [Problems](https://github.com/chrrissoft/Problems) To get programming logic.
 
 These projects have allowed me to learn programming concepts, Kotlin and Android in a practical way. The most prominent are the following.
 
